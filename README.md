@@ -30,7 +30,7 @@ Hi, I'm Poka, just started with programming 🚀 from Europe, currently, I'm stu
 - 🌱 I’m currently learning C++ and I want to start with python;
 - 🤔 I’m looking for ways to master these languages;
 - ⚡️ Fun-Fact: I love solving rubik's cubes!
-- 📫 How to reach me: @gmail.com;
+- 📫 How to reach me: https://github.com/Poka33WasTaken;
 
 <br/>
 <br/>
